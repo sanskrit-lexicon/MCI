@@ -4,24 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**MCI** is the corrections repository for the Cologne digitization of Sorensen's *Mahabharata Cultural Index*. The canonical source lives in `csl-orig/v02/mci/mci.txt`.
+This is a Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
-Issues and corrections are tracked via the [GitHub issue tracker](https://github.com/sanskrit-lexicon/MCI/issues).
+## GitHub Issue Conventions
 
-## Common Commands
+All issues must have:
+- **Type**: exactly one label (link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question)
+- **Severity**: exactly one label (minor, medium, hard)
+- **Milestone**: one of (Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements)
 
-### Apply line-level corrections (standard pattern)
-```bash
-python updateByLine.py <input_file> <changein_file> <output_file>
-```
-
-### Rebuild and validate XML (from `csl-pywork/v02/`)
-```bash
-sh generate_dict.sh mci ../../MCIScan/2020
-sh xmlchk_xampp.sh mci
-```
-
-## Dependencies
-
-- **Python 3**
-- **mci.txt** — in `$BASE/cologne/csl-orig/v02/mci/mci.txt`
+See the Sanskrit Lexicon runbook for full definitions.

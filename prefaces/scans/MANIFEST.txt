@@ -1,0 +1,39 @@
+MCI front-matter scan manifest (toctree order, authoritative)
+Dictionary: Mehendale's Mahabharata Cultural Index (M. A. Mehendale),
+  Bhandarkar Oriental Research Institute, Poona, 1993. Source language: ENGLISH.
+Source index: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mcipref.html
+Sub-page URL pattern: .../prefaces/mcipref/mciprefNN.html  (embeds one _images/<file>.jpg)
+Image base: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/
+
+NN  vol  section_label                       embedded_scan
+01   1   Title, vol. 1, Fascicule 1          mci_0000-01.jpg
+02   1   Title, vol. 1, Fascicule 1          mci_0000-03.jpg
+03   1   Editorial Staff                     mci_0000-04.jpg
+04   1   Contents                            mci_0000-05.jpg
+05   1   Foreword, 1                         mci_0000-06.jpg
+06   1   Foreword, 2                         mci_0000-07.jpg
+07   1   Preface, 1                          mci_0000-08.jpg
+08   1   Preface, 2                          mci_0000-09.jpg
+09   1   Preface, 3                          mci_0000-10.jpg
+10   1   Preface, 4                          mci_0000-11.jpg
+11   1   Preface, 5                          mci_0000-12.jpg
+12   1   Preface, 6                          mci_0000-13.jpg
+13   1   Preface, 7                          mci_0000-14.jpg
+14   1   Preface, 8                          mci_0000-15.jpg
+15   1   Title, vol. 1, Fascicule 2          mci_0000-16.jpg
+16   1   Contents                            mci_0000-19.jpg
+17   1   Title, vol. 1, Fascicule 3          mci_0000-20.jpg
+18   1   Contents                            mci_0000-23.jpg
+19   1   Title, vol. 1, Fascicule 4          mci_0000-24.jpg
+20   1   Contents                            mci_0000-27.jpg
+21   2   Title, vol. 2, Fascicule 1          mci_0000-28.jpg
+22   2   Contents                            mci_0000-31.jpg
+23   2   Title, vol. 2, Fascicule 2          mci_0000-32.jpg
+24   2   Contents                            mci_0000-35.jpg
+25   2   Title, vol. 2, Fascicule 3          mci_0000-36.jpg
+26   2   Contents                            mci_0000-39.jpg
+27   2   Title, vol. 2, Fascicule 4          mci_0000-40.jpg
+28   2   Contents                            mci_0000-43.jpg
+
+NOTE: Each toctree sub-page embeds exactly ONE scan (the recto leaf of a
+spread). Scans are .jpg. Resolved from each mciprefNN.html on 2026-06-23.

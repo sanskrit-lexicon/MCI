@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `mciprefNN.md`. Index: [README.md](README.md).
+Per-page files: `mciprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MCI/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -546,3 +548,5 @@ PUNE 411 004 (INDIA)
 | 1. 7  Miscellaneous Names | 935–941 |
 | &nbsp;&nbsp;&nbsp;&nbsp;Additions and Corrections to Volumes I and II | 942–948 |
 | &nbsp;&nbsp;&nbsp;&nbsp;Index : Volumes One and Two | 949–981 |
+
+_Dr. Mārcis Gasūns_

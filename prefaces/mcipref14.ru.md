@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-15.jpg
 source_page: Preface, 8
@@ -23,3 +25,5 @@ translation_of: mcipref14.md
 ---
 
 1. К сожалению, они были пропущены под статьями Aśvakranda (с. 4. 1) и Ulūka (с. 6. 1), которые в обоих случаях должны быть: 1. 32. 18 Bom. Ed.
+
+_Dr. Mārcis Gasūns_

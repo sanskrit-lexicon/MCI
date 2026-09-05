@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-15.jpg
 source_page: Preface, 8
@@ -22,3 +24,5 @@ M. A. Mehendale
 ---
 
 1. Unfortunately these have been missed under the entries Aśvakranda (p. 4. 1) and Ulūka (p. 6. 1) which in both cases should be : 1. 32. 18 Bom. Ed.
+
+_Dr. Mārcis Gasūns_

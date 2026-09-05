@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-07.jpg
 source_page: Foreword, 2
@@ -18,3 +20,5 @@ translation_of: mcipref06.md
 25 мая 1993 г.
 
 Р. Н. Дандекар
+
+_Dr. Mārcis Gasūns_

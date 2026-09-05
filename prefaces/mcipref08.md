@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-09.jpg
 source_page: Preface, 2
@@ -17,3 +19,5 @@ Accordingly, Shri S. K. Dikshit was the first scholar to be appointed to do some
 
 1. Of which it forms part till today.
 2. Institute's Annual Report for the year 1953–54, p. 12.
+
+_Dr. Mārcis Gasūns_

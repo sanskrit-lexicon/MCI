@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-07.jpg
 source_page: Foreword, 2
@@ -17,3 +19,5 @@ Poona, India
 May 25, 1993
 
 R. N. Dandekar
+
+_Dr. Mārcis Gasūns_

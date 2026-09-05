@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-39.jpg
 source_page: Contents
@@ -12,3 +14,5 @@ translation_of: mcipref26.md
 |---|---|
 | **Cultural Index (Культурный указатель):** | |
 | 1. 6  Names of Countries, Peoples, Islands etc. (Названия стран, народов, островов и т. п.) <br>(From Taratoya To Mleccha) | 733–844 |
+
+_Dr. Mārcis Gasūns_

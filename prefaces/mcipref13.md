@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-14.jpg
 source_page: Preface, 7
@@ -22,3 +24,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 1. It is only in rare cases like the one of the elephant Supratīka of Bhagadatta that references are given although the elephant's name is not specifically stated (p. 71. 2).
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-11.jpg
 source_page: Preface, 4
@@ -26,3 +28,5 @@ translation_of: mcipref10.md
 
 1. О достоинствах указателя Сёренсена см. Winternitz, op. cit. p. 242.
 2. Д-р Г. К. Бхат также работал научным профессором по Эпилогу в течение короткого периода в три месяца (июнь–август 1979 г.).
+
+_Dr. Mārcis Gasūns_

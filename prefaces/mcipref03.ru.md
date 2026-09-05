@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-04.jpg
 source_page: Editorial Staff
@@ -15,3 +17,5 @@ translation_of: mcipref03.md
 *Помощники редактора*
 
 Н. Б. Маратхе          Виджая Дешмукх
+
+_Dr. Mārcis Gasūns_

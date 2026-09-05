@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-10.jpg
 source_page: Preface, 3
@@ -23,3 +25,5 @@ With the publication of the three works noted above many things could be traced 
 4. This should really read " Kesari Mohan Ganguli's translation ". See the Preface to the fourth edition, 1981, published by Munshiram Manoharlal Publishers Pvt. Ltd., New Delhi.
 5. A similar book, *The Mahābhārata — Analysis and Index* by Edward P. Rice, appeared in 1934. It claims to be a *map* to the 'Jungle' of information that the *Mahābhārata* offers.
 6. Jacobi notes that his work was to be useful not only to a layman but also to a specialist as a town-map is indispensable even to a long resident of a big town. (Preface p. III).
+
+_Dr. Mārcis Gasūns_

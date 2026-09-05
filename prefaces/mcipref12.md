@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-13.jpg
 source_page: Preface, 6
@@ -20,3 +22,5 @@ The work of writing out the Index-entries for the two sections noted above and s
 The Index entries hardly require any orientation. However, the following few features may be noted :
 
 1. References, when necessary, are given not only for the actual occurrence of a given name, but also to the additional information that may have been supplied for it. For example, of the two references 1. 31. 15, 2 given under the name Akarkara, the first reference (15) indicates the stanza where the name occurs, the second (2) indicates the stanza where it is said that the name Akarkara was listed by Sūta at the request of Śaunaka.
+
+_Dr. Mārcis Gasūns_

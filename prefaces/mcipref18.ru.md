@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-23.jpg
 source_page: Contents
@@ -12,3 +14,5 @@ translation_of: mcipref18.md
 |---|---|
 | **Cultural Index (Культурный указатель):** | |
 | 1. 5  Names of Tīrthas, Rivers, Mountains, Forests etc. (Названия тиртх, рек, гор, лесов и т. п.) <br>(Akṣayavaṭa — Mandara ...) | 285–404 |
+
+_Dr. Mārcis Gasūns_

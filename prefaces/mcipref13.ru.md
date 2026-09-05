@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-14.jpg
 source_page: Preface, 7
@@ -23,3 +25,5 @@ translation_of: mcipref13.md
 ---
 
 1. Лишь в редких случаях, как, например, в случае слона Supratīka, принадлежавшего Бхагадатте, ссылки даются, хотя имя слона прямо не названо (с. 71. 2).
+
+_Dr. Mārcis Gasūns_

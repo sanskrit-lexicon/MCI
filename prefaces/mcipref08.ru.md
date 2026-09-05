@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-09.jpg
 source_page: Preface, 2
@@ -18,3 +20,5 @@ translation_of: mcipref08.md
 
 1. В составе которого он находится и поныне.
 2. Годовой отчёт института за 1953–54 год, с. 12.
+
+_Dr. Mārcis Gasūns_

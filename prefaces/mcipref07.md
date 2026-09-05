@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-08.jpg
 source_page: Preface, 1
@@ -25,3 +27,5 @@ The Epilogue, as outlined by Dr. Belvalkar, had to deal with the following subje
 4. This was continued up to 1973. In the year 1969–70, Prof. Dr. K. R. Karandikar gave a generous donation of Rs. 10,000/– for the Epilogue.
 5. Prospectus of the Critical and Illustrated Edition of the Mahābhārata, India's Greatest National Epic, including Outline Scheme for the Epilogue, Poona, October 1951, pp. 9–18.
 6. Op. cit. p. 9.
+
+_Dr. Mārcis Gasūns_

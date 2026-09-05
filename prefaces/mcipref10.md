@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-11.jpg
 source_page: Preface, 4
@@ -25,3 +27,5 @@ After the sad demise of Shri Bedekar in January 1978, Dr. V. G. Rahurkar joined 
 
 1. For the merits Sörensen's Index, see Winternitz, op. cit. p. 242.
 2. Dr. G. K. Bhat also worked as a Research Professor for the Epilogue for a short period of three months (June–August 1979).
+
+_Dr. Mārcis Gasūns_

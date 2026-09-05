@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-08.jpg
 source_page: Preface, 1
@@ -26,3 +28,5 @@ translation_of: mcipref07.md
 4. Это продолжалось до 1973 года. В 1969–70 году проф. д-р К. Р. Карандикар сделал щедрое пожертвование в 10 000 рупий на Эпилог.
 5. Prospectus of the Critical and Illustrated Edition of the Mahābhārata, India's Greatest National Epic, including Outline Scheme for the Epilogue, Poona, October 1951, pp. 9–18.
 6. Op. cit. p. 9.
+
+_Dr. Mārcis Gasūns_

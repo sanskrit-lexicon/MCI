@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-06.jpg
 source_page: Foreword, 1
@@ -12,3 +14,5 @@ It was but natural that, with the advance of scientific Indology, the need shoul
 The first volume in the Institute's *Critical Edition of the Mahābhārata*, namely, the *Ādiparvan*, edited by V. S. SUKTHANKAR, was published in 1933, and it soon evoked quite an encouraging response. The critical edition of the eighteen *parvans* of the *Mahābhārata* (extending over 13,000 demi quarto pages) was completed in 1966, and this historic event was formally announced by Rashtrapati Dr. S. RADHAKRISHNAN at a special function held at the Institute on September 22, 1966.
 
 It would seem that the Editorial Board and the Board of Referees for the *Critical Edition of the Mahābhārata* had visualized it as a multifaceted project. Besides the critical edition of the 18 *parvans*, it was to have comprised also a critical edition of the *Harivaṃśa*, which is traditionally regarded as a *khilaparvan* of the *Mahābhārata*, (later published in two volumes containing 1,711 pages, 1969–1971), the *Pratīka-Index* (6 volumes containing 4,805 pages, 1967–1972), the *Critically Constituted Text of the Great Epic and the Harivaṃśa* (5 volumes containing 3,150 pages, 1971–1976), and the *Epilogue of the Critical Edition of the Mahābhārata*. This last item, namely, the *Epilogue*, has had rather a chequered career. Even at an early stage, it was thought that, as a prelude to the *Epilogue*, the Institute should publish a fairly comprehensive analytical *Cultural Index to the Critical Edition*. This latter too posed many problems, but the Institute duly overcame them. The work is now properly
+
+_Dr. Mārcis Gasūns_

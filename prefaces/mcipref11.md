@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-12.jpg
 source_page: Preface, 5
@@ -21,3 +23,5 @@ The work on the second stage of classifying the cards under the major heads was 
 
 1. The need for the appointment of a full-time Editor for the Epilogue was already expressed as early as 1968 (Institute's Annual Report for 1968–69, p. 11).
 2. Shri Achyutananda Dash worked only for two months in 1987.
+
+_Dr. Mārcis Gasūns_

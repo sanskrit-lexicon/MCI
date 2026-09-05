@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-28.jpg
 source_page: Title, vol. 2, Fascicule 1
@@ -18,3 +20,5 @@ M. A. MEHENDALE
 BHANDARKAR ORIENTAL RESEARCH INSTITUTE
 PUNE 411 004 (INDIA)
 1999
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mci_0000-04.jpg
 source_page: Editorial Staff
@@ -14,3 +16,5 @@ M. A. MEHENDALE
 *Editorial Assistants*
 
 N. B. MARATHE          VIJAYA DESHMUKH
+
+_Dr. Mārcis Gasūns_

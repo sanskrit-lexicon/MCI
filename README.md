@@ -2,7 +2,7 @@
 
 _Created: 16-05-2026 · Last updated: 11-07-2026_
 
-Development and correction repository for **the *Mahābhārata Cultural Index* (A. D. Pusalker et al.)**, a specialized cultural and onomastic index to the Mahābhārata, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/mci/mci.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mci/mci.txt) (2,325 index entries); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **the *Mahābhārata Cultural Index* (A. D. Pusalker et al.)**, a specialized cultural and onomastic index to the Mahābhārata, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/mci/mci.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mci/mci.txt) (2,325 index entries); this repository holds the development, correction, and enrichment work.
 
 A partial, still-growing index of names and cultural references in the Mahābhārata rather than a general dictionary.
 
@@ -21,7 +21,7 @@ The dictionary's **front matter** has been OCR'd from the Cologne csldoc scans i
 - **Cologne source:** [mcipref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mcipref.html) — 28 scans (Vol. 1 Fasc. 1–4 + Vol. 2 Fasc. 1–4 title/contents pages, plus the Vol. 1 Fasc. 1 Foreword + Editor's Preface).
 - **File conventions:** `mciprefNN.md` (English OCR), `mciprefNN.ru.md` (Russian), `scans/mci_0000-XX.jpg` (source scans). Digitizer/library stamps (Bonn *Indologisches Seminar*, Heidelberg *Südasien-Institut* inventory marks, running headers/footers) are omitted as not part of the original.
 - **Signatures/dates found:** Foreword (p. vii) signed **R. N. Dandekar**, BORI Poona, **25 May 1993**; Editor's Preface (p. VIII) signed **M. A. Mehendale**.
-- **⚠ Source-metadata note:** the scanned title pages and [`csl-orig/v02/mci/mciheader.xml`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mci/mciheader.xml) both give the editor as **M. A. Mehendale** and the publisher as the **Bhandarkar Oriental Research Institute, Poona / Pune** (Vol. 1 Fasc. 1, 1993 → Vol. 2 Fasc. 4, 2007). This differs from the "A. D. Pusalker … Bharatiya Vidya Bhavan, Bombay, 1976–1993" attribution in the **Source** section below — the latter appears to be a separate/catalog confusion and should be reconciled against the front matter.
+- **⚠ Source-metadata note:** the scanned title pages and [`csl-orig/v02/mci/mciheader.xml`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mci/mciheader.xml) both give the editor as **M. A. Mehendale** and the publisher as the **Bhandarkar Oriental Research Institute, Poona / Pune** (Vol. 1 Fasc. 1, 1993 → Vol. 2 Fasc. 4, 2007). This differs from the "A. D. Pusalker … Bharatiya Vidya Bhavan, Bombay, 1976–1993" attribution in the **Source** section below — the latter appears to be a separate/catalog confusion and should be reconciled against the front matter.
 
 > **OCR run notes (2026-06-23) — cost, timing, and technical lessons.**
 > Produced by the `/cologne-preface-ocr` skill (vision OCR + translation), run synchronously on the main thread (no subagents) per the preface-retry rules, after the Cologne host had recovered from an IP-level throttle. Process retrospective, not part of the deliverable.

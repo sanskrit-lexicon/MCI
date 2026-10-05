@@ -1,5 +1,7 @@
 # MCI — *Mahābhārata Cultural Index* (1976–1993)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151357.svg)](https://doi.org/10.5281/zenodo.23151357)
+
 _Created: 16-05-2026 · Last updated: 11-07-2026_
 
 Development and correction repository for **the *Mahābhārata Cultural Index* (A. D. Pusalker et al.)**, a specialized cultural and onomastic index to the Mahābhārata, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/mci/mci.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mci/mci.txt) (2,325 index entries); this repository holds the development, correction, and enrichment work.
